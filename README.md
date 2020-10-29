@@ -14,7 +14,7 @@
 
 ## How to run locally
 
-- Navigate to the project folder: `cd ./ReactNativeCklExample`;
+- Navigate to the project folder: `cd ./SlingshotReactNative`;
 - Install project dependencies: `yarn`;
 - Install CocoaPods iOS packages: `cd ios && pod install`;
 - Run in iOS Simulator: `yarn ios`;
