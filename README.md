@@ -13,8 +13,8 @@
 - [React Native v0.60.5](https://facebook.github.io/react-native/docs/getting-started);
 
 ## How to run locally
-
-- Navigate to the project folder: `cd ./SlingshotReactNative`;
+- Fork this repo into your own repo say X and repo X locally;
+- Navigate to the project folder: `cd ./X`;
 - Install project dependencies: `yarn`;
 - Install CocoaPods iOS packages: `cd ios && pod install`;
 - Run in iOS Simulator: `yarn ios`;
